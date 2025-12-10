@@ -247,3 +247,23 @@ hdfs dfs -chown mapred /user/cloudera/test_hdfs.txt
 <img width="1594" height="635" alt="image" src="https://github.com/user-attachments/assets/e35f1000-3872-431e-9a2e-94926e2837c7" />
 <img width="1810" height="601" alt="image" src="https://github.com/user-attachments/assets/4dfa939e-a69b-4073-88aa-2c89d435f87b" />
 <img width="1779" height="954" alt="image" src="https://github.com/user-attachments/assets/972355e3-4ec7-4d9f-9ea4-cdb312183f60" />
+<img width="1824" height="749" alt="image" src="https://github.com/user-attachments/assets/d252dcde-bbe7-4076-a7ac-6f032938ec55" />
+<img width="1823" height="492" alt="image" src="https://github.com/user-attachments/assets/ff013296-5301-45d6-9620-12b17fb002dc" />
+<img width="1911" height="810" alt="image" src="https://github.com/user-attachments/assets/e7baa656-429d-4a03-8396-3ed67d4109b1" />
+<img width="1801" height="720" alt="image" src="https://github.com/user-attachments/assets/99bdf854-049e-43b3-95de-b72199ccaed4" />
+<img width="1371" height="410" alt="image" src="https://github.com/user-attachments/assets/6c9c0534-579e-4dd8-a7a1-540ebb5baf31" />
+<img width="1672" height="626" alt="image" src="https://github.com/user-attachments/assets/0178d8e2-7cb3-4f24-9dfd-e7a3bfac0c43" />
+<img width="1528" height="590" alt="image" src="https://github.com/user-attachments/assets/58e8d706-61a6-4a85-ab31-60b993dd320c" />
+<img width="642" height="460" alt="image" src="https://github.com/user-attachments/assets/13b6ff86-7b89-4a1b-80c1-79d6ac7e8087" />
+<img width="1803" height="860" alt="image" src="https://github.com/user-attachments/assets/7a5ffb6b-7117-4704-84af-13be44f0e45b" />
+<img width="1731" height="928" alt="image" src="https://github.com/user-attachments/assets/5dfe01c7-2a55-4576-8f54-dd43989be46e" />
+<img width="1919" height="1002" alt="image" src="https://github.com/user-attachments/assets/20c75e6b-906e-4da7-8e4c-f86b3703f853" />
+<img width="1919" height="480" alt="image" src="https://github.com/user-attachments/assets/7706ec0b-44b0-45ae-af07-a1d24c8363c1" />
+<img width="1916" height="316" alt="image" src="https://github.com/user-attachments/assets/49784497-145d-41fa-9b42-7a2aa954c6cd" />
+<img width="1307" height="713" alt="image" src="https://github.com/user-attachments/assets/fba75906-ad0d-4bf3-ae3f-6cc1073b630d" />
+<img width="950" height="337" alt="image" src="https://github.com/user-attachments/assets/6033f613-3c3b-4fa0-b547-1b1ca778a15e" />
+<img width="1762" height="678" alt="image" src="https://github.com/user-attachments/assets/cd96eb1b-334d-4ca1-89df-0e852dc036e5" />
+<img width="1808" height="505" alt="image" src="https://github.com/user-attachments/assets/b63f2731-8b1e-4f58-a32d-03a1ac875aea" />
+<img width="1598" height="531" alt="image" src="https://github.com/user-attachments/assets/99407330-5458-40fe-9781-e1d89709d8ff" />
+<img width="1106" height="791" alt="image" src="https://github.com/user-attachments/assets/05518be3-3f20-4ecf-8154-d2235751329e" />
+
