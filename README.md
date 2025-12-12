@@ -1388,3 +1388,6 @@ from emp_ll
 <img width="922" height="307" alt="image" src="https://github.com/user-attachments/assets/31e3ae25-e82a-4aa7-92e5-3138c71f67fe" />
 <img width="815" height="496" alt="image" src="https://github.com/user-attachments/assets/1f08821b-ebe8-4fd0-8bb6-74d905d401cb" />
 <img width="827" height="472" alt="image" src="https://github.com/user-attachments/assets/c1278171-c919-4dfa-8ab1-d03543f9eb48" />
+
+
+![Uploading image.png…]()
