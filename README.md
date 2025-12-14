@@ -1496,5 +1496,9 @@ Narrow transformation
 <img width="1168" height="315" alt="image" src="https://github.com/user-attachments/assets/275fa2c7-da34-4702-9441-91cc022d80d2" />
 <img width="1408" height="435" alt="image" src="https://github.com/user-attachments/assets/5df76f5a-adf7-490d-a397-f1a0c7374117" />
 <img width="1408" height="435" alt="image" src="https://github.com/user-attachments/assets/b2fd71c4-f12d-40c7-bb89-4baa74bbd039" />
+<img width="1845" height="844" alt="image" src="https://github.com/user-attachments/assets/30fd7a0e-50e1-442f-8166-7f7b5d69275c" />
+<img width="1812" height="895" alt="image" src="https://github.com/user-attachments/assets/7d088fec-0798-40b1-b58b-203feb57b502" />
+<img width="1017" height="512" alt="image" src="https://github.com/user-attachments/assets/ba68b358-6f07-4951-975c-9d7d9db9fab8" />
+<img width="986" height="444" alt="image" src="https://github.com/user-attachments/assets/c535a474-d0e3-41f6-ada1-5561322a941d" />
 ![Uploading image.png…]()
 
