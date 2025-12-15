@@ -1522,7 +1522,9 @@ Narrow transformation
 <img width="1492" height="547" alt="image" src="https://github.com/user-attachments/assets/09fbbad8-880b-42ba-a8fa-2a128efaaaa5" />
 <img width="1451" height="645" alt="image" src="https://github.com/user-attachments/assets/e0803cef-9ec0-4670-8aab-3006404fda0e" />
 <img width="1451" height="645" alt="image" src="https://github.com/user-attachments/assets/cfb2028a-cb3b-4954-9756-fa455f726d1f" />
-![Uploading image.png…]()
+<img width="1287" height="689" alt="image" src="https://github.com/user-attachments/assets/f7d2768e-4667-457d-9833-9232c9adb630" />
+<img width="593" height="328" alt="image" src="https://github.com/user-attachments/assets/9d71feef-e174-456d-83f8-75e0f66c819f" />
 
+![Uploading image.png…]()
 ![Uploading image.png…]()
 ![Uploading image.png…]()
